@@ -33,7 +33,7 @@ header {
 }
 
 .logo {
-    color: blue;
+    color: #006fff;
 }
 
 .ul-list {
@@ -100,7 +100,7 @@ header {
 
 .italic {
     font-style: italic;
-    color: #2626f5;
+    color: #006fff;
 }
 
 .left-para {
@@ -265,7 +265,7 @@ header {
 .minus {
     border: 1px solid white;
     border-radius: 50%;
-    width: 4%;
+    width: 24px;
     text-align: center;
     height: 23px;
 }
@@ -273,7 +273,7 @@ header {
 .plus {
     border: 1px solid black;
     border-radius: 50%;
-    width: 4%;
+    width: 24px;
     text-align: center;
     height: 23px;
 }
