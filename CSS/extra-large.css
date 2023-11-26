@@ -2,7 +2,7 @@
     background-color: aqua;
 } */
 
-header{
+header {
     height: auto;
 }
 
@@ -11,7 +11,7 @@ header{
 }
 
 .hero-left {
-    margin: auto;
+    margin: 13px auto;
     text-align: center;
     width: 56%;
 }

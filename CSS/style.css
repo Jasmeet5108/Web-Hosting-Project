@@ -79,7 +79,7 @@ header {
     display: none;
 }
 
-#side-menu {
+.side-menu {
     display: none;
 }
 
@@ -92,6 +92,7 @@ header {
 
 .hero-left {
     width: 30%;
+    /* margin-top: 100px; */
 }
 
 .left-heading {

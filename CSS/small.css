@@ -2,6 +2,18 @@
     background-color: cornflowerblue;
 } */
 
+header {
+    padding: 0px 20px 5px 20px;
+}
+
+.navbar {
+    position: sticky;
+    top: 0%;
+    z-index: 100;
+    background-color: black;
+    height: 60px;
+}
+
 .left-heading {
     font-size: 35px;
 }
@@ -51,6 +63,10 @@
     font-size: 20px;
 }
 
+.hero-left {
+    margin-top: -254px;
+}
+
 .hero-left-btns {
     font-size: 11px;
 }
@@ -75,6 +91,7 @@
 
 .side-menu {
     font-size: 14px;
+    /* margin-top: -84%; */
 }
 
 .footer-little-gap {
